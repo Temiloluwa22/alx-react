@@ -1,1 +1,4 @@
-body/body.css
+#count {
+  display: inline;
+  font-weight: bold;
+}
